@@ -1,1 +1,3 @@
-This is just a small front end practice I did using type script and react. The purpose of this project was to learn and practice frontend.
+With this practice I learned how to use typescript with javascript and react by building a normal interaective web page for travellers. 
+
+The user would be able to see and explore their travel options and be able to choose and the server will ve notified. 
