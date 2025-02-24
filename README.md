@@ -3,3 +3,7 @@ With this practice I learned how to use typescript with javascript and react by 
 The user would be able to see and explore their travel options and be able to choose and the server will ve notified. 
 
 this project was a good practice for people who wnats too explore react and typescript.
+
+The video and the project comes from the youtuber Mosh Hamedani, defintely go and check him out.
+
+I promise to be uploading and doing more projects like this.
