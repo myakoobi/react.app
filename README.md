@@ -6,4 +6,4 @@ this project was a good practice for people who wnats too explore react and type
 
 The video and the project comes from the youtuber Mosh Hamedani, defintely go and check him out.
 
-I promise to be uploading and doing more projects like this.
+I promise to be uploading and doing more projects like this, and also working on learning and using more tools like tableau, tensorflow, terraform, GO, Bash, and pipelines
