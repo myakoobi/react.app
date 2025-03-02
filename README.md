@@ -8,5 +8,3 @@ The video and the project comes from the youtuber Mosh Hamedani, defintely go an
 
 I promise to be uploading and doing more projects like this, and also working on learning and using more tools like tableau, tensorflow, terraform, GO, Bash, and pipelines. I have started a little bit hope fully terra form and GO will be on my target to learn and implement them in my projects. I also need to learn tableau and how to integrate mysql databases.
 
-in the break I will work on these.
-
