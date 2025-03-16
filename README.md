@@ -10,4 +10,4 @@ I promise to be uploading and doing more projects like this, and also working on
 i have to learn rust and golang
 
 planning to start in spring break and work on a project that I wanted to work on for so long.
-this project will be developed later
+this project will be developed later.
