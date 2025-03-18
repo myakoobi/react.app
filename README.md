@@ -11,3 +11,5 @@ i have to learn rust and golang
 
 planning to start in spring break and work on a project that I wanted to work on for so long.
 this project will be developed late.
+
+never give up, graduating from college does not mean that your learning process is finished.
