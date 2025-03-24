@@ -6,10 +6,3 @@ this project was a good practice for people who wnats too explore react and type
 
 The video and the project comes from the youtuber Mosh Hamedani, defintely go and check him out.
 
-I promise to be uploading and doing more projects like this, and also working on learning and using more tools like tableau, tensorflow, terraform, GO, Bash, and pipelines. I have started a little bit hope fully terra form and GO will be on my target to learn and implement them in my projects. I also need to learn tableau and how to integrate mysql databases.
-i have to learn rust and golang
-
-planning to start in spring break and work on a project that I wanted to work on for so long.
-this project will be developed late.
-
-never give up, graduating from college does not mean that your learning process is finished
